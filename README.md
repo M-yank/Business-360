@@ -43,3 +43,38 @@ AtliQ Hardware has experienced significant growth in recent years and has decide
 •	Power BI App Creation: Develop tailored applications for specific users.
 
 •	Collaboration and Workspace Management: Set access permissions and optimize team collaboration within Power BI Services.
+
+# Data Modelling
+
+![1](https://github.com/user-attachments/assets/9b615ef6-13bc-43bb-a811-f75c21340cb8)
+
+# Dashboard Design
+a] Home Page (consists of company Overview and Page navigation buttons)
+![2](https://github.com/user-attachments/assets/6dae776c-4cb9-40d5-8eb7-312b8b8a5f78)
+
+
+b] Finance View
+![3](https://github.com/user-attachments/assets/23dac6c0-4b52-4708-9b3b-5597fdb99d24)
+
+
+c] Sales View
+![4](https://github.com/user-attachments/assets/2ac1fa8f-4709-45ab-a0bf-c7b030972f4a)
+
+
+d] Marketing View
+![5](https://github.com/user-attachments/assets/a55ff4d1-e414-4684-98b3-da682da0b177)
+
+
+e] Supply Chain View
+![6](https://github.com/user-attachments/assets/3f131988-1abc-490c-b8b2-105529c93770)
+
+
+f] Executive View
+![7](https://github.com/user-attachments/assets/301b6358-52d2-4768-852b-240d9d720e1c)
+
+Live Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRiMjkyNDEtNzFiZC00ZTFmLWFkOGItMWI4NmMzNjVlZDBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1abb6c870ea4544f744e)
+
+
+
+
+
