@@ -3,8 +3,7 @@ Company Dashboard
 Overview:
 AtliQ Hardware has experienced significant growth in recent years and has decided to adopt data analytics through Power BI for the first time. This initiative aims to enhance its competitive edge by enabling data-driven decision-making. The project is expected to address stakeholders' queries across various domains, including finance, sales, marketing, and supply chain management.
 
-#Interactive Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRiMjkyNDEtNzFiZC00ZTFmLWFkOGItMWI4NmMzNjVlZDBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1abb6c870ea4544f744e
-)
+#Interactive Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRiMjkyNDEtNzFiZC00ZTFmLWFkOGItMWI4NmMzNjVlZDBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1abb6c870ea4544f744e)
 
 # Tools Used:
 •	SQL
