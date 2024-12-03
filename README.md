@@ -47,6 +47,16 @@ AtliQ Hardware has experienced significant growth in recent years and has decide
 
 ![1](https://github.com/user-attachments/assets/9b615ef6-13bc-43bb-a811-f75c21340cb8)
 
+# Insights
+●	Analyzed operational expenses across markets, revealing a 26% overage in the NA region. Recommended Cost optimization strategy to align OER within 40% benchmark, improving operational efficiency.
+
+●	Executed supply chain analysis by month, achieving a 80% forecast accuracy and reducing inventory risks, limiting out-of-stock occurrences to 2%.
+
+●	Developed an executive dashboard comparing AtliQ Tech’s performance, calculating a 6% market share and identifying three major competitors holding 41% of the market, guiding strategies to improve competitive positioning.
+
+●	Developed an integrated Power BI dashboard consolidating sales data from CSV files and SQL databases, optimizing with DAX Studio for a 5% performance.
+
+
 # Dashboard Design
 a] Home Page (consists of company Overview and Page navigation buttons)
 ![2](https://github.com/user-attachments/assets/6dae776c-4cb9-40d5-8eb7-312b8b8a5f78)
