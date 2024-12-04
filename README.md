@@ -3,7 +3,7 @@ Company Dashboard
 Overview:
 AtliQ Hardware has experienced significant growth in recent years and has decided to adopt data analytics through Power BI for the first time. This initiative aims to enhance its competitive edge by enabling data-driven decision-making. The project is expected to address stakeholders' queries across various domains, including finance, sales, marketing, and supply chain management.
 
-#Interactive Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRiMjkyNDEtNzFiZC00ZTFmLWFkOGItMWI4NmMzNjVlZDBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1abb6c870ea4544f744e)
+#Interactive Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiZWI0MjljNDAtNjJkNi00YjVmLWJiYjYtZWVlMGEyZGJiYjVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=60da87fb72d1003b2241)
 
 # Tools Used:
 •	SQL
@@ -81,7 +81,7 @@ e] Supply Chain View
 f] Executive View
 ![7](https://github.com/user-attachments/assets/301b6358-52d2-4768-852b-240d9d720e1c)
 
-Live Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRiMjkyNDEtNzFiZC00ZTFmLWFkOGItMWI4NmMzNjVlZDBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1abb6c870ea4544f744e)
+Live Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiZWI0MjljNDAtNjJkNi00YjVmLWJiYjYtZWVlMGEyZGJiYjVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=60da87fb72d1003b2241)
 
 
 
